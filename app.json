@@ -1,0 +1,12 @@
+{
+  "name": "CepATV",
+  "displayName": "CepATV",
+  "expo": {
+    "name": "CepATV",
+    "slug": "CepATV",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
